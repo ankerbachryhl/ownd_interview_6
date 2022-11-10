@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/1050050/201097887-d82e1404-1be8-40ed-beab-7d547a688521.png)
+![image](https://user-images.githubusercontent.com/1050050/201097928-3640135c-e47c-4a89-9962-04696ce24c05.png)
+
+
 # ownd_interview_6
 
 Main:
